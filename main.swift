@@ -6,3 +6,5 @@ import UIKit
 //int b=4;
 var a : Int = 5
 var b : Int = 4
+
+string = "hi universe!";
